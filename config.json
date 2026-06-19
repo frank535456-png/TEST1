@@ -1,0 +1,19 @@
+{
+  "endDate": "2026-12-31T23:59",
+  "expiredImage": "",
+  "expiredText": "Время вышло!",
+  "expiredLink": "",
+  "expiredLinkText": "Перейти",
+  "bgColor": "#0f172a",
+  "bgImage": "",
+  "digitColor": "#ffffff",
+  "labelColor": "#ffffff",
+  "size": "medium",
+  "style": "glass",
+  "labels": "show",
+  "timerBgColor": "#ffffff",
+  "timerBgOpacity": 0.08,
+  "adminPasswordHash": "",
+  "jsonbinId": "",
+  "jsonbinKey": ""
+}
