@@ -15,5 +15,7 @@
   "timerBgOpacity": 0.08,
   "adminPasswordHash": "",
   "jsonbinId": "",
-  "jsonbinKey": ""
+  "jsonbinKey": "",
+  "lockCode": "1234",
+  "lockRedirect": "nagrada.html"
 }
