@@ -13,9 +13,7 @@
   "labels": "show",
   "timerBgColor": "#ffffff",
   "timerBgOpacity": 0.08,
-  "adminPasswordHash": "",
-  "jsonbinId": "",
-  "jsonbinKey": "",
-  "lockCode": "1234",
-  "lockRedirect": "nagrada.html"
+  "adminPasswordHash": "ed5983ea68043329daedbf48df6156d4d81488a1ed00d098392134c92f702f05",
+  "jsonbinId": "6a34f758f5f4af5e290da9b0",
+  "jsonbinKey": "$2a$10$mte71GUzKBh4JSVQEA9tTO/MTjsFZEcuCg5rtF8.obDCWiHrHdCUu"
 }
